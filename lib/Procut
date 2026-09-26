@@ -1,7 +1,0 @@
-dependencies:
-  flutter:
-    sdk: flutter
-  video_player: ^2.8.2
-  image_picker: ^1.0.7
-  ffmpeg_kit_flutter_new_video: ^0.1.0
-  path_provider: ^2.1.2
